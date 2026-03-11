@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Francis
 
-<!--
-**MF-E-Commerce-dev/MF-E-Commerce-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Web Developer from India building modern responsive websites and business portfolio platforms.
 
-Here are some ideas to get you started:
+## Skills
+HTML  
+CSS  
+JavaScript  
+Firebase  
+Responsive Web Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+• Business portfolio websites  
+• Modern landing pages  
+• Firebase contact form systems  
+• Responsive UI websites  
+
+## Current Focus
+Building professional websites for businesses and startups.
+
+## Contact Me
+Email: your@email.com
